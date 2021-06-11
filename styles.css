@@ -1,0 +1,51 @@
+.header-menu{
+    color: aliceblue;
+}
+
+.main-heading {
+    text-align: center;
+    font-size: 50px;
+}
+
+#brush {
+ background-color: #f9c74f;
+ text-align: center;
+ font-size: 18px;
+}
+
+#frame {
+    background-color: #90be6d;
+    text-align: center;
+    font-size: 18px;
+}
+
+#paint {
+    background-color: #43aa8b;
+    text-align: center;
+    font-size: 18px;
+}
+.Items {
+    background-color: #f94144;
+}
+
+body {
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+}
+
+html, body {
+    font-family: 'Vollkorn', serif;
+  }
+
+  li {
+      text-align: center;
+      list-style-type: none;
+  }
+
+  a[href] {
+      color: aliceblue;
+      font-size: 25px;
+  }
+
+  footer {
+      text-align: right;
+  }
